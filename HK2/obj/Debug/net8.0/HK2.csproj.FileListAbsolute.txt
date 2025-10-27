@@ -1,0 +1,14 @@
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/bin/Debug/net8.0/HK2
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/bin/Debug/net8.0/HK2.deps.json
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/bin/Debug/net8.0/HK2.runtimeconfig.json
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/bin/Debug/net8.0/HK2.dll
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/bin/Debug/net8.0/HK2.pdb
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/obj/Debug/net8.0/HK2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/obj/Debug/net8.0/HK2.AssemblyInfoInputs.cache
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/obj/Debug/net8.0/HK2.AssemblyInfo.cs
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/obj/Debug/net8.0/HK2.csproj.CoreCompileInputs.cache
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/obj/Debug/net8.0/HK2.dll
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/obj/Debug/net8.0/refint/HK2.dll
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/obj/Debug/net8.0/HK2.pdb
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/obj/Debug/net8.0/HK2.genruntimeconfig.cache
+/Users/wishpaxhugo/Downloads/Hugo/GREENWICH /C#/HK2/obj/Debug/net8.0/ref/HK2.dll
